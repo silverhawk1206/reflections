@@ -29,7 +29,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
-
+	It really helps me see the relationship that each theoretical commit has
+	to its parent as well as to the other branches and commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
