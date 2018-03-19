@@ -15,12 +15,17 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-
+	Only add the documents necessary for the change you're making instead of
+	every single file in the directory.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When you have an experimental feature you want to try before adding to the
+	main project.
 
+	If the project comes to a point where there are different tiers of
+	functionality (you could have a branch for each tier).
 
 How do the diagrams help you visualize the branch structure?
 
