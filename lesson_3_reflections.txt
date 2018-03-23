@@ -28,3 +28,10 @@ instead of another?
   of your "master" branch within the git repository. This should be used if you have
   experimental features you're developing for the project that or if you're fixing a
   bug.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  
+  It gives you and the computer something to compare to the actual repository you're
+  storing files in. Without something to compare to the real thing, you wouldn't easily
+  be able to determine if something has changed to the actual repository in the time
+  you've been editing locally.
