@@ -35,3 +35,15 @@ What is the benefit of having a copy of the last known state of the remote store
   storing files in. Without something to compare to the real thing, you wouldn't easily
   be able to determine if something has changed to the actual repository in the time
   you've been editing locally.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+
+  I would set up a shared drive (like OneDrive, DropBox, network drive, etc) and keep
+  all files in that drive.
+  It'd be easier for someone to navigate because it wouldn't be necessary to learn
+  command line.
+  It'd be much more difficult for version control. Anytime someone wanted to save a
+  new version, we'd either have to save a separate file for each iteration of the
+  file, or we'd have to have a meeting to determine what the final committed file
+  should be (if someone else has made their own edits).
