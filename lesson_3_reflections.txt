@@ -10,3 +10,21 @@ stay up-to-date with your remote repository?
   Because code could have been added that would mess with your code. By allowing you
   to control the versions of the various code files in your repository, you have much
   more control over your working environment.
+
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+  "Fork" is GitHub's version of cloning that allows a user to clone a GitHub repository
+  into their own GitHub repository. This should be used if you're wanting to clone
+  someone else's GitHub repository and be able to share the changes you're going to
+  make publicly.
+
+  "Clone" is when you're cloning something from somewhere to your local machine.
+  "Somewhere" can include GitHub and another repository on your local machine. This
+  should be used when you're wanting to replicate a repository and place it somewhere
+  on your local machine.
+
+  "Branch" is a term used when, in your repository, you create an additional path off
+  of your "master" branch within the git repository. This should be used if you have
+  experimental features you're developing for the project that or if you're fixing a
+  bug.
